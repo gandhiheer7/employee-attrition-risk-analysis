@@ -1,0 +1,13 @@
+Feature,Coefficient
+JobRole_Laboratory Technician,0.8101723800035975
+OverTime_Yes,0.7710945078496407
+BusinessTravel_Travel_Frequently,0.7225382018909444
+TotalWorkingYears,-0.6602702260965784
+JobLevel,0.6501732127249604
+JobRole_Sales Representative,0.5310898560228254
+BusinessTravel_Travel_Rarely,0.5127801173548995
+EducationField_Life Sciences,-0.5123194675779995
+YearsSinceLastPromotion,0.4990630413174025
+Department_Sales,0.4705868044383581
+NumCompaniesWorked,0.46432653538200824
+YearsWithCurrManager,-0.46132200560165093
